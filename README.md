@@ -24,6 +24,6 @@ This project simulates a banking system integrated with a stock exchange. It pro
 - Perform and track transactions including deposits, withdrawals, stock purchases, and sales.
 - Handle errors related to invalid transactions and insufficient assets.
 
-**Run the Demo**:
+##  Run the Demo
    - Compile and run the `Demo` class to see the system in action.
    - The `Demo` class provides a sample usage of the system. It demonstrates creating stock listings, opening accounts, making transactions, and printing out the state of the stock exchange and patrons.
